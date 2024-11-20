@@ -1,0 +1,7 @@
+C:\Users\IsaRu\source\repos\C# Training Tasks (2017)\Task_1.1_Calculator\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\IsaRu\source\repos\C# Training Tasks (2017)\Task_1.1_Calculator\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\IsaRu\source\repos\C# Training Tasks (2017)\Task_1.1_Calculator\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\IsaRu\source\repos\C# Training Tasks (2017)\Task_1.1_Calculator\ConsoleApplication1\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\IsaRu\source\repos\C# Training Tasks (2017)\Task_1.1_Calculator\ConsoleApplication1\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\IsaRu\source\repos\C# Training Tasks (2017)\Task_1.1_Calculator\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\IsaRu\source\repos\C# Training Tasks (2017)\Task_1.1_Calculator\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

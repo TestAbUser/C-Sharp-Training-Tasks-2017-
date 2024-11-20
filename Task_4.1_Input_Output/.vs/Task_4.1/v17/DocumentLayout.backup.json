@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IsaRu\\source\\repos\\C# Training Tasks (2017)\\Task_4.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59031458-4DAB-406C-A979-772A6ED32058}|Task_4.1\\Task_4.1.csproj|c:\\users\\isaru\\source\\repos\\c# training tasks (2017)\\task_4.1\\task_4.1\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59031458-4DAB-406C-A979-772A6ED32058}|Task_4.1\\Task_4.1.csproj|solutionrelative:task_4.1\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59031458-4DAB-406C-A979-772A6ED32058}|Task_4.1\\Task_4.1.csproj|c:\\users\\isaru\\source\\repos\\c# training tasks (2017)\\task_4.1\\task_4.1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59031458-4DAB-406C-A979-772A6ED32058}|Task_4.1\\Task_4.1.csproj|solutionrelative:task_4.1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cs",
+              "DocumentMoniker": "C:\\Users\\IsaRu\\source\\repos\\C# Training Tasks (2017)\\Task_4.1\\Task_4.1\\Source.cs",
+              "RelativeDocumentMoniker": "Task_4.1\\Source.cs",
+              "ToolTip": "C:\\Users\\IsaRu\\source\\repos\\C# Training Tasks (2017)\\Task_4.1\\Task_4.1\\Source.cs",
+              "RelativeToolTip": "Task_4.1\\Source.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:05:30.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\IsaRu\\source\\repos\\C# Training Tasks (2017)\\Task_4.1\\Task_4.1\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Task_4.1\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\IsaRu\\source\\repos\\C# Training Tasks (2017)\\Task_4.1\\Task_4.1\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Task_4.1\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:03:49.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

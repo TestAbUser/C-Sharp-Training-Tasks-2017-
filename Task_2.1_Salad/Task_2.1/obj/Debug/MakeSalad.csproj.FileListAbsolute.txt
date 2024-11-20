@@ -1,0 +1,7 @@
+C:\Users\IsaRu\source\repos\C# Training Tasks (2017)\Task_2.1\Task_2.1\bin\Debug\Task_2.1.exe.config
+C:\Users\IsaRu\source\repos\C# Training Tasks (2017)\Task_2.1\Task_2.1\bin\Debug\Task_2.1.exe
+C:\Users\IsaRu\source\repos\C# Training Tasks (2017)\Task_2.1\Task_2.1\bin\Debug\Task_2.1.pdb
+C:\Users\IsaRu\source\repos\C# Training Tasks (2017)\Task_2.1\Task_2.1\obj\Debug\MakeSalad.csproj.AssemblyReference.cache
+C:\Users\IsaRu\source\repos\C# Training Tasks (2017)\Task_2.1\Task_2.1\obj\Debug\MakeSalad.csproj.CoreCompileInputs.cache
+C:\Users\IsaRu\source\repos\C# Training Tasks (2017)\Task_2.1\Task_2.1\obj\Debug\Task_2.1.exe
+C:\Users\IsaRu\source\repos\C# Training Tasks (2017)\Task_2.1\Task_2.1\obj\Debug\Task_2.1.pdb
